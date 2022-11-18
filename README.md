@@ -302,7 +302,7 @@ users:
     client-key-data: LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBeXJVWWUyMWFiNnpxOGNlOU00ak5IZzFuekU3Zk9Nc2ZvQ05rSURnZXdFMDFxaHIvCnNSRnZObHUrVDFoQTFGeDdKR3pSYW9tdVQ1L3ZPRFUyckZkaENlWi9NT1RramIxeVBjTjJ1NEhTbGFqSElVNlQKbjVrU0pVdHVLcWpmc3N1bUtrRndOUnUvdVhLbDVBYTZOSktYY3RoVU1PWitjeCt1R0NIWWJIaTVHSDltN1JwWgpHM29tbUJGcVF5am54aEpsOFB5cXgvNHhBZVhXRzEzVzVvMjEvTDgvMjFNeHN0WU1MRmY0UmxXdHdQM01HMmFRCklJNStQaXh5RWtUZHRYS0prN2NYdnExYUJvRGpQWkhGRkpTS0d1WnFvQ1FTNTBrbnVCK0dTYzhCcENVbXNCTUUKUU82ZDNjalpZRU8rWFQzMDV5dDUyVFlVRUJnem5yem8xSEFnWXdJREFRQUJBb0lCQUd4VzIrM2o1VWo0bjExNApCcXhMZW0yTWRxU2dwdmVBd0xkakV2bVJaUVljZmdrYmd2dE5PU1pSWkdhZDRaQmVtVVkvanJHbFFtKzJLREhmClp3ZzNiMXJPUWI2Tko0YUY4VkFIYnljS1hOVzJMaStrQW94elVGcDBkVDRCb2dXNmlHWGZNYXlBMXppemlPeFYKbUNIUEUzakRIRVJDZk9UazByUjlLbUhYSi81cDdNc0hBWjgxQm5KQk9URDBWanQ0c0pjRGo5S0pmTXQ3ZXA5ZAp4UDJpZUtRNXdyM29LUUM2ejFOUkY4V1FSdC9GeTJQQjY3NkpEdzN5SG9JWDN1WXJuMStLL20weklrS0kyUVhyCkxQd01vdGNsR2J3c1Z1SGhJRWk4eU5tUVlpR3BCeFh4bTJRRmVvUTBPSXl3UlBjUEFqRDVqbHJHbE1FdWc2eXkKUHhIZkZQa0NnWUVBK1I0SEwxM3FPTkJqQXBrSU9aci9taHZXUEpQUGhYSWNIRWZkKzRQRk4vbE5QOFhQWGFtagpWOEg4L0xzNG1yb3JCVlBCTjY1YUtXaHIzdDR2WWJyVTdLcVE1SFUrY1FQQUkxQmpoS001N25sbmNuY284K1YvCkFqcUJ1WnhldWc2SG1BV0dCRnJYQUxlaUxHdkVFaFlCZFZ2N3FRSTl2dFlkenc2cytJaFpWUTBDZ1lFQTBFN1IKSGd1S2IyMFNNYWNBeFBqK3dXWGxreUk2NFdlYVlUUGdMcTM0bmg5Z1F6SEpGODF4cFh1akpjU2FZTDA0YXFvNQo3eGF2M1hvM3JHVVNMa3VJZ0dmaXczL3FSUDRVK0hJcTJMcy9SRi9mUHovUjVtS2k3ekljT2o4R2NDSHJISGdECmc2SHdwNk9tV0VqNU1HYlBVNzQ3Y3VDWWxCVWordVpyL0VoVXp5OENnWUF4SlRSanF0Sm5UTzBMZVNjL1BnM0kKMkU4R2VsNkpRLzY1c1kvZ2E1bC90bVgvKzhVeUJDSmVVTDNaR2hKTHJBaUtyNEJCdk5xNnFvZ0ZXcTNjU09CeQpwQitiZ21uRUgrcEt6VFFrMlpLM01pb3ZVY1M1Z1AveWI1cGlCTEJIWWxCcnRFTkJIcTZsekpSbzBRWElUNkVRCkJ3cDV5Q0JvUXBOMDRyOUs5Sk16RFFLQmdDQ2VGdFNUamd2QWtuYS81Ymp5SEVJQVNLQnZYYlRwMmh5YVdPSTIKVDVYQzUvbmRrOVZzVC8xUGpNNWZLS1U1TzlwSDZXWnNzUUVISUN5WWJ1NWMyWFR4ejJvNVgxK0tRWkpkbmlQdAp2Z3hnenI1Q3FnVmZNSkF2MG9lMFVyZkFOK1p2VEcyU0wvS3dCMTRQbnlWYkU5L1RDOUFESnlFWTVsZGxPVWQ1CnMvMzFBb0dCQUlER20ycnZ0aWFVSUFJM29ISk40Z3l6aWRlQTRoU3BtcTNJR2sxVExCc3dYQ0szT1hnelVSNjQKSlZyS3o0alZxWEpDQUNEVFA1dFFib21CUVlsaWF4M2d0Mk9CbjF1bXRMTGRLcGpQY05kWEF5dHhCZjdsZlNSaAp5c0FvMEhnQkFTWVpXSytZR1ZBMkZnK2J5MDU5alRxd1ljdzZJRStRK0ZnRkxYNzB2bkprCi0tLS0tRU5EIFJTQSBQUklWQVRFIEtFWS0tLS0tCg==
 ```
 
-se copia toda la informacion generada por el cat y se pega en la siguiente ruta de la VM1-dev de la siguiente forma
+Se copia toda la informacion generada por el cat y se pega en la siguiente ruta de la VM1-dev de la siguiente forma
 
 ```bash
 cd .kube
@@ -335,7 +335,7 @@ users:
     client-key-data: LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBeXJVWWUyMWFiNnpxOGNlOU00ak5IZzFuekU3Zk9Nc2ZvQ05rSURnZXdFMDFxaHIvCnNSRnZObHUr>
 ```
 
-se le realizo dos modificaciones, en la linea de server se pondra la ip del proxy ya que es al cual se le pregunta por los servicios de kubernetes (la de listen), por lo tanto el puerto seria el que se puso en el proxy 51999, la linea certificate-authority-date: se elimina y se agrega insecure-skip-tls-verify: true
+Se le realizo dos modificaciones, en la linea de server se pondra la ip del proxy ya que es al cual se le pregunta por los servicios de kubernetes (la de listen), por lo tanto el puerto seria el que se puso en el proxy 51999, la linea certificate-authority-date: se elimina y se agrega insecure-skip-tls-verify: true
 
 Con ello cuando se realiza kubectl get pods -A se mostrara los pods que se ven en el host
 
@@ -501,20 +501,20 @@ image:
 
 ```
 
-se eliminaran algunos archivos con rm y solo se dejaran los iguientes
+Se eliminaran algunos archivos con rm y solo se dejaran los iguientes
 
 ```bash
 _helpers.tpl  deployment.yaml  service.yaml
 ```
 
-el _helpers.tpl contiene unas variables de entorno con las cuales se puede trabajar a la hora de desplegar paquetes con helm por ahora se realizara una backup de deployment y service
+El _helpers.tpl contiene unas variables de entorno con las cuales se puede trabajar a la hora de desplegar paquetes con helm por ahora se realizara una backup de deployment y service
 
 ```bash
 cp service.yaml service.yaml.backup
 cp deployment.yaml deployment.yaml.backup
 ```
 
-del proyecto anterior nos traeremos los siguientes archivos
+Del proyecto anterior nos traeremos los siguientes archivos
 
 ```bash
 cp ../../kubernetes-manifest/deployment-def.yaml ../../helm_chart/templates/deployment-def.yaml
@@ -523,7 +523,7 @@ cp ../../kubernetes-manifest/service-def.yaml ../../helm_chart/templates/service
 
 > **NOTA** Se recomienda usar el comando tree . para realizar las copias de carpetas ya que este nos permite tener un entorno visual de las estrcuturas de las carpetas
 
-para verificar el manifest dentro de la aplicacion
+Para verificar el manifest dentro de la aplicacion
 
 ```bash
 helm template ./helm-chart/ --values helm-chart/values.yaml
