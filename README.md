@@ -1,5 +1,4 @@
-# Despliegue-y-gestion-de-contenedores-usando-la-herramienta-helm
-Con esta guia se mostrara como gestionar aplicaciones con una herramienta muy usada por los DevOps llamada helm
+# Despliegue y gestion de contenedores usando la herramienta helm
 
 Acontinuación se explicara como hacer la instalacion de servicios con la herramienta helm la cual servira como gestor de despliegues de contenedores ademas de permiter versinamiento y automatizacion, Helm ayuda a administrar las aplicaciones de Kubernetes como definir, instalar y actualizar las App mas complejas. 
 
