@@ -192,7 +192,7 @@ version.BuildInfo{Version:"v3.10.2", GitCommit:"50f003e5ee8704ec937a756c64687022
 ## - Instalacion de Nginx-proxy
 Como paso adicional se instala un proxy de la siguiente manera
 
-![Nginx_proxy](https://journaldev.nyc3.digitaloceanspaces.com/2019/03/nginx-reverse-proxy.png)
+![Nginx_proxy](https://www.herlitz.io/imagevault/publishedmedia/8jluo5ea3fxnz2udolpo/reverse_proxy_1.png)
 
 ```bash
 sudo apt install nginx
