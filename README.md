@@ -1,4 +1,4 @@
-# Despliegue y gestion de contenedores usando la herramienta helm
+# Despliegue y gestion de contenedores usando la herramienta helm y minikube como cluster
 
 Acontinuación se explicara como hacer la instalacion de servicios con la herramienta helm la cual servira como gestor de despliegues de contenedores ademas de permiter versinamiento y automatizacion, Helm ayuda a administrar las aplicaciones de Kubernetes como definir, instalar y actualizar las App mas complejas. 
 
