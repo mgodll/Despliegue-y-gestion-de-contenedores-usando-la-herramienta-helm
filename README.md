@@ -173,8 +173,8 @@ Por ultimo para la instalacion de Helm_chart se descarga la version mas actual d
 sudo apt update && sudo apt -y upgrade
 mkdir helm-chart
 cd helm-chart
-wget https://get.helm.sh/helm-v3.10.2-linux-amd64.tar.gz
-tar -zxvf helm-v3.10.2-linux-amd64.tar.gz
+wget https://get.helm.sh/helm-v3.12.3-linux-amd64.tar.gz
+tar -zxvf helm-v3.12.3-linux-amd64.tar.gz
 mv linux-amd64/helm /usr/local/bin/helm
 curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
 sudo apt-get install apt-transport-https --yes
@@ -186,7 +186,7 @@ Se verifica la version de helm
 
 ```bash
 helm version
-version.BuildInfo{Version:"v3.10.2", GitCommit:"50f003e5ee8704ec937a756c646870227d7c8b58", GitTreeState:"clean", GoVersion:"go1.18.8"}
+version.BuildInfo{Version:"v3.12.3", GitCommit:"50f003e5ee8704ec937a756c646870227d7c8b58", GitTreeState:"clean", GoVersion:"go1.18.8"}
 ```
 
 ## - Instalacion de Nginx-proxy
